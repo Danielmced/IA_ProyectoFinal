@@ -14,6 +14,10 @@ Mariano Galvez de Guatemala
 Debes tener el creditcard.csv al mismo nivel de carpetas que el proyecto ProyectoFinal.py, por 
 motivos de espacio este documento ha sido adjuntado en Blackboard.
 
+Puedes encontrar el DataSet creditcard.csv en el siguiente link
+
+[Creditcard.csv](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
 luego puedes ejecutar:
 ```Bash
 python ProyectoFinal.py
