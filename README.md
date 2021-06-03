@@ -9,6 +9,22 @@ Mariano Galvez de Guatemala
 # Pablo Andres Bonilla Morales 1290-17-10498
 # Evelyn Yolanda Zamora Hernández 1290-17-5541
 ```
+
+# Ponlo en marcha
+Debes tener el creditcard.csv al mismo nivel de carpetas que el proyecto ProyectoFinal.py, por 
+motivos de espacio este documento ha sido adjuntado en Blackboard.
+
+luego puedes ejecutar:
+```Bash
+python ProyectoFinal.py
+```
+
+en caso que tengas disponible python3:
+
+```Bash
+python3 ProyectoFinal.py
+```
+
 # Qué realiza el proyecto
 
 Sistema de aprendizaje profundo el cual por medio de un modelo de Keras secuencial analiza por 
